@@ -9,6 +9,7 @@ public class Point {
   }
 
   double distanceTo(Point p){
+
     return Math.sqrt((p.x-x)*(p.x-x) + (p.y - y)*(p.y - y));
   }
 }

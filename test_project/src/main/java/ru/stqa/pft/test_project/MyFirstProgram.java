@@ -1,3 +1,5 @@
+package ru.stqa.pft.test_project;
+
 public class MyFirstProgram {
   public static void main(String[] args) {
     hello("world");
